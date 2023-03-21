@@ -2,6 +2,11 @@
 
 [![Demonstration](https://img.youtube.com/vi/euT9Jv5h3bQ/0.jpg)](https://youtu.be/euT9Jv5h3bQ)
 
+## Social Media
+[Youtube Channel](https://www.youtube.com/@MattRaffel)  
+[Patreon](https://tatmanblue.itch.io/max-capacity)  
+[Itch](https://tatmanblue.itch.io/max-capacity)  
+
 
 ## Tag line
 
