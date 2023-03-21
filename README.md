@@ -1,5 +1,8 @@
 # "Max Capacity"
 
+[![Demonstration](https://img.youtube.com/vi/euT9Jv5h3bQ/0.jpg)](https://youtu.be/euT9Jv5h3bQ)
+
+
 ## Tag line
 
 Be the Boss....manage your employees and decide how to best make money.  How quick can you get rich and
