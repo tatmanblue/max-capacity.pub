@@ -1,6 +1,7 @@
-# "Max Capacity"
+# Max Capacity
 
-[![Demonstration](https://img.youtube.com/vi/euT9Jv5h3bQ/0.jpg)](https://youtu.be/euT9Jv5h3bQ)
+[![Demonstration](https://img.youtube.com/vi/X11j8q0Fvq8/0.jpg)](https://youtu.be/X11j8q0Fvq8)
+
 
 ## Social Media
 [Youtube Channel](https://www.youtube.com/@MattRaffel)  
@@ -79,6 +80,6 @@ If you have any questions about the content of the repository, please email [mat
 # Status
 On-going/Active
 
-This game is in prototype, early development stage.
+This game is in prototype, active development stage.
 
-edited: 2023.03.11
+edited: 2023.03.22
