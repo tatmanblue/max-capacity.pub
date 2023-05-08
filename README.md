@@ -51,14 +51,17 @@ Existing Equipment in the factory:
 
 | Equipment in the factory | Function |
 | -------- | -------- |
-| Container | Storage |
-| Machine | Converts materials into other materials |
+| Container | Storage.  Currently there are two storage containers with the primary difference between them being volume |
+| Machine | Converts materials into other materials.  Currently there are two machines--both have the same abilities |
 
 
 # AI
 
+Long term goal is to incorporate AI to interact in the markets, both for single and multi-player modes, to help keep the market changing in realistic patterns.
 
 ## AI & Markets
+
+TBD
 
 
 # Format/Platforms
