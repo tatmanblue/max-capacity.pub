@@ -85,4 +85,4 @@ On-going/Active
 
 This game is in prototype, active development stage.
 
-edited: 2023.03.22
+edited: 2023.05.28
