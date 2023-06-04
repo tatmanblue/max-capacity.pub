@@ -1,6 +1,6 @@
 # Max Capacity
 
-[![Demonstration](https://img.youtube.com/vi/op2jq__-YMY/0.jpg)](https://youtu.be/op2jq__-YMY)
+[![Demonstration](https://img.youtube.com/vi/MwLjZlmqZEQ/0.jpg)](https://youtu.be/MwLjZlmqZEQ)
 
 
 ## Social Media
@@ -11,9 +11,14 @@
 
 ## Tag line
 
-Be the Boss....manage your employees and decide how to best make money.  How quick can you get rich and
-expand your empire.  Do you create everything on your own or buy on the market? Before
-you get to that point, what will you make? Should you go for a finished product or build material used by others to create product?
+The ultimate factory management challenge.
+
+- The game is set in a modern factory environment.  
+- Features a variety of different machines that can be used to produce different products.  
+- A variety of different employees with different skills and work styles.  
+- A dynamic market where the prices of raw materials, components, and finished products fluctuate.  
+- A variety of different challenges that players must overcome in order to succeed.  
+
 
 ## Purpose
 
@@ -83,6 +88,6 @@ If you have any questions about the content of the repository, please email [mat
 # Status
 On-going/Active
 
-This game is in prototype, active development stage.
+This game is in active development stage.
 
-edited: 2023.05.28
+edited: 2023.06.04
