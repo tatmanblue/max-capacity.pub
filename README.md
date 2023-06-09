@@ -19,6 +19,11 @@ The ultimate factory management challenge.
 - A dynamic market where the prices of raw materials, components, and finished products fluctuate.  
 - A variety of different challenges that players must overcome in order to succeed.  
 
+## Core Tech
+
+- Unity
+- C#
+
 
 ## Purpose
 
