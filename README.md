@@ -1,5 +1,7 @@
 # Max Capacity
 
+**The ultimate factory management challenge.**  
+
 [![Demonstration](https://img.youtube.com/vi/MwLjZlmqZEQ/0.jpg)](https://youtu.be/MwLjZlmqZEQ)
 
 
@@ -8,6 +10,8 @@
 [Youtube Channel](https://www.youtube.com/@MattRaffel)  
 [Patreon](https://tatmanblue.itch.io/max-capacity)  
 [Itch](https://tatmanblue.itch.io/max-capacity)  
+
+__Early Access Release__ targeting late Q3, early Q4, 2023.  
 
 
 ## Tag line
