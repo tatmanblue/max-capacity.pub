@@ -56,7 +56,8 @@ Existing Agents:
 | -------- | -------- |
 | Staff    | Create and gather resources used by equipment in the factory |
 | Buyer    | Buys material used by equipment in the factory |
-| Sales    | Sells material and finished product on the market |
+| Sales    | Sells material and finished product on the market |  
+| Stocker  | Helps move inventory between containers |  
 
 
 
@@ -100,4 +101,4 @@ On-going/Active
 
 This game is in active development stage.
 
-edited: 2023.06.04
+edited: 2023.06.23
