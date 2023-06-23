@@ -68,7 +68,7 @@ Existing Equipment in the factory:
 | Equipment in the factory | Function |
 | -------- | -------- |
 | Container | Storage.  Currently there are two storage containers with the primary difference between them being volume |
-| Machine | Converts materials into other materials.  Currently there are two machines--both have the same abilities |
+| Machine | Converts materials into other materials and products.  Currently there are 4 machines--all have the same abilities |
 
 
 # AI
