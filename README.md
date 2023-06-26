@@ -2,7 +2,7 @@
 
 **The ultimate factory management challenge.**  
 
-[![Demonstration](https://img.youtube.com/vi/MwLjZlmqZEQ/0.jpg)](https://youtu.be/MwLjZlmqZEQ)
+[![Demonstration](https://img.youtube.com/vi/6G1ja20yunM/0.jpg)](https://youtu.be/6G1ja20yunM)
 
 
 ## Social Media
