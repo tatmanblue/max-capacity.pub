@@ -2,6 +2,9 @@
 
 **The ultimate factory management challenge.**  
 
+Early Release planned for late summer 2023.  
+
+
 [![Demonstration](https://img.youtube.com/vi/6G1ja20yunM/0.jpg)](https://youtu.be/6G1ja20yunM)
 
 
@@ -101,4 +104,4 @@ On-going/Active
 
 This game is in active development stage.
 
-edited: 2023.06.26
+edited: 2023.06.30
