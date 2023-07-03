@@ -104,4 +104,4 @@ On-going/Active
 
 This game is in active development stage.
 
-edited: 2023.06.30
+edited: 2023.07.02
