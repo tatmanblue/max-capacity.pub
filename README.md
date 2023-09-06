@@ -2,10 +2,10 @@
 
 **The ultimate factory management challenge.**  
 
-Early Release planned for late summer 2023.  
+Early Release is  2023.  
 
 
-[![Demonstration](https://img.youtube.com/vi/Ijl1_94TY_w/0.jpg)](https://youtu.be/Ijl1_94TY_w)
+[![Demonstration](https://img.youtube.com/vi/qIY3FvtG8U8/0.jpg)](https://youtu.be/qIY3FvtG8U8)
 
 
 ## Social Media
