@@ -2,7 +2,10 @@
 
 **The ultimate factory management challenge.**  
 
-Early Release is  2023.  
+
+## Early release date
+
+Early Release is scheduled for Oct 1, 2023.  
 
 
 [![Demonstration](https://img.youtube.com/vi/qIY3FvtG8U8/0.jpg)](https://youtu.be/qIY3FvtG8U8)
