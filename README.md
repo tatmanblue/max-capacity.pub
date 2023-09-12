@@ -24,11 +24,22 @@ __Early Access Release__ targeting late Q3, early Q4, 2023.
 
 The ultimate factory management challenge.
 
-- The game is set in a modern factory environment.  
-- Features a variety of different machines that can be used to produce different products.  
-- A variety of different employees with different skills and work styles.  
-- A dynamic market where the prices of raw materials, components, and finished products fluctuate.  
-- A variety of different challenges that players must overcome in order to succeed.  
+Max Capacity is a factory simulation game that challenges you to build and manage the most efficient factory possible. You must hire and train employees, purchase machinery, and configure production lines to produce goods as quickly and cheaply as possible. The market for your goods is constantly changing, so you need to be constantly innovating and adapting your strategies to stay ahead of the competition.  
+
+In single-player mode, you can compete against other players on the Steam leaderboards to see who can make the most money. In multiplayer mode, you can work together with other players to complete contracts and earn even more money.  
+
+Max Capacity is a challenging and rewarding game that will test your skills as a factory manager. If you're looking for a game that will keep you entertained for hours on end, then Max Capacity is the game for you.  
+
+Here are some of the things that make Max Capacity an exciting game to play:  
+
+* The challenge of building and managing an efficient factory.  
+* The ever-changing market conditions that keep you on your toes.  
+* The opportunity to compete against other players on the Steam leaderboards.  
+* The teamwork and cooperation required in multiplayer mode.  
+* The sense of accomplishment you feel when you successfully complete a contract or achieve a goal.  
+
+If you're looking for a factory simulation game that is both challenging and rewarding, then start playing Max Capacity today!
+
 
 ## Core Tech
 
