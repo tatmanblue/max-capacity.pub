@@ -5,7 +5,7 @@
 
 ## Early release date
 
-Early Release is scheduled for Oct 1, 2023.  
+__Early Access Release__ scheduled for end of October, 2023.  
 
 
 [![Demonstration](https://img.youtube.com/vi/qIY3FvtG8U8/0.jpg)](https://youtu.be/qIY3FvtG8U8)
@@ -17,7 +17,7 @@ Early Release is scheduled for Oct 1, 2023.
 [Patreon](https://tatmanblue.itch.io/max-capacity)  
 [Itch](https://tatmanblue.itch.io/max-capacity)  
 
-__Early Access Release__ targeting late Q3, early Q4, 2023.  
+
 
 
 ## Tag line
