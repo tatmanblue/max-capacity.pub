@@ -5,7 +5,7 @@
 
 ## Early release date
 
-__Early Access Release__ scheduled for end of October, 2023.  
+__Early Access Release__ scheduled for October 23, 2023.  
 
 
 [![Demonstration](https://img.youtube.com/vi/qIY3FvtG8U8/0.jpg)](https://youtu.be/qIY3FvtG8U8)
@@ -16,9 +16,8 @@ __Early Access Release__ scheduled for end of October, 2023.
 [Youtube Channel](https://www.youtube.com/@MattRaffel)  
 [Patreon](https://tatmanblue.itch.io/max-capacity)  
 [Itch](https://tatmanblue.itch.io/max-capacity)  
-
-
-
+[Reddit](https://www.reddit.com/r/MaxCapacity/)  
+[Kickstarter](https://www.kickstarter.com/projects/tatmanblue/max-capacity/)  
 
 ## Tag line
 
