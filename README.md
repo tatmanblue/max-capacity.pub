@@ -5,13 +5,14 @@
 
 ## Early release date
 
-__Early Access Release__ scheduled for October 23, 2023.  
+__Early Access Release__ available now on [Itch.io](https://tatmanblue.itch.io/max-capacity) and [Steam](https://store.steampowered.com/app/2579870/Max_Capacity/).  
 
 
 [![Demonstration](https://img.youtube.com/vi/qIY3FvtG8U8/0.jpg)](https://youtu.be/qIY3FvtG8U8)
 
 
 ## Social Media
+[Steam Store](https://store.steampowered.com/app/2579870/Max_Capacity/)  
 [Website](http://www.tatmangames.com)  
 [Youtube Channel](https://www.youtube.com/@MattRaffel)  
 [Patreon](https://tatmanblue.itch.io/max-capacity)  
@@ -31,11 +32,11 @@ Max Capacity is a challenging and rewarding game that will test your skills as a
 
 Here are some of the things that make Max Capacity an exciting game to play:  
 
-* The challenge of building and managing an efficient factory.  
-* The ever-changing market conditions that keep you on your toes.  
-* The opportunity to compete against other players on the Steam leaderboards.  
-* The teamwork and cooperation required in multiplayer mode.  
-* The sense of accomplishment you feel when you successfully complete a contract or achieve a goal.  
+* Challenge of building and managing an efficient factory.  
+* Ever-changing market conditions that keep you on your toes.  
+* Compete against other players on the Steam leaderboards.  
+* Cooperation required in multiplayer mode.  
+* Accomplishment you feel when you successfully complete a contract or achieve a goal.  
 
 If you're looking for a factory simulation game that is both challenging and rewarding, then start playing Max Capacity today!
 
