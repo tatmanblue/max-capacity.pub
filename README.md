@@ -7,8 +7,7 @@
 
 __Early Access Release__ available now on [Itch.io](https://tatmanblue.itch.io/max-capacity) and [Steam](https://store.steampowered.com/app/2579870/Max_Capacity/).  
 
-
-[![Demonstration](https://img.youtube.com/vi/qIY3FvtG8U8/0.jpg)](https://youtu.be/qIY3FvtG8U8)
+[![Release Announcement](https://img.youtube.com/vi/kaOTkWa1Pi0/0.jpg)](https://youtu.be/kaOTkWa1Pi0)
 
 
 ## Social Media
