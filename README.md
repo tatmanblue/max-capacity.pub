@@ -3,7 +3,7 @@
 **The ultimate factory management challenge.**  
 
 
-## Early release date
+## Available Now
 
 __Early Access Release__ available now on [Itch.io](https://tatmanblue.itch.io/max-capacity) and [Steam](https://store.steampowered.com/app/2579870/Max_Capacity/).  
 
@@ -11,6 +11,7 @@ __Early Access Release__ available now on [Itch.io](https://tatmanblue.itch.io/m
 
 
 ## Social Media
+[Press Kit](https://impress.games/press-kit/tatman-games/max-capacity)  
 [Steam Store](https://store.steampowered.com/app/2579870/Max_Capacity/)  
 [Website](http://www.tatmangames.com)  
 [Youtube Channel](https://www.youtube.com/@MattRaffel)  
