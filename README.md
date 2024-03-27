@@ -1,4 +1,5 @@
 # Max Capacity
+[![BuiltWithDot.Net shield](https://builtwithdot.net/project/5737/max-capacity/badge)](https://builtwithdot.net/project/5737/max-capacity)
 
 **The ultimate factory management challenge.**  
 
