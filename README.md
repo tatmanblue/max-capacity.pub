@@ -95,7 +95,10 @@ Long term goal is to incorporate AI to interact in the markets, both for single 
 
 ## AI & Markets
 
-TBD
+Markets are now data driven with data from all participating players used to create realistic pricing models.  The models are consumed by all
+players to create their local economy.
+
+The AI resides server side and not in the game therefore requiring players to agree to contribution anonymized market data from their game play.
 
 
 # Format/Platforms
@@ -119,4 +122,4 @@ On-going/Active
 
 This game is in active development stage.
 
-edited: 2023.07.02
+edited: 2024.03.27
