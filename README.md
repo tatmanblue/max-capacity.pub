@@ -6,7 +6,7 @@
 
 ## Available Now
 
-__Early Access Release__ available now on [Itch.io](https://tatmanblue.itch.io/max-capacity) and [Steam](https://store.steampowered.com/app/2579870/Max_Capacity/).  
+__Early Access Release__ available now on [Itch.io](https://tatmanblue.itch.io/max-capacity) and [Steam](https://store.steampowered.com/app/2579870/Max_Capacity/).  Please see the steam store for the latest release updates.
 
 [![Release Announcement](https://img.youtube.com/vi/kaOTkWa1Pi0/0.jpg)](https://youtu.be/kaOTkWa1Pi0)
 
@@ -105,7 +105,7 @@ The AI resides server side and not in the game therefore requiring players to ag
 Unity Game.  For Windows, MacOS, Linux
 
 ## Installation/Using
-Built with Unity 2021.03 LTS
+Built with Unity 2022.03 LTS
 
 You must have the 3rd party assets installed prior to opening any of scenes.   In house assets are built by bulding and exporting the asset and are checked into the repo.
 3rd party assets must be purchased from the vendor (links provided).  
@@ -122,4 +122,4 @@ On-going/Active
 
 This game is in active development stage.
 
-edited: 2024.03.27
+edited: 2024.06.10
