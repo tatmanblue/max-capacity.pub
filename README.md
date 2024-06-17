@@ -19,7 +19,7 @@ __Early Access Release__ available now on [Itch.io](https://tatmanblue.itch.io/m
 [Patreon](https://tatmanblue.itch.io/max-capacity)  
 [Itch](https://tatmanblue.itch.io/max-capacity)  
 [Reddit](https://www.reddit.com/r/MaxCapacity/)  
-[Kickstarter](https://www.kickstarter.com/projects/tatmanblue/max-capacity/)  
+
 
 ## Tag line
 
@@ -122,4 +122,4 @@ On-going/Active
 
 This game is in active development stage.
 
-edited: 2024.06.10
+edited: 2024.06.17
