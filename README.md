@@ -6,7 +6,7 @@
 
 ## Available Now
 
-__Early Access Release__ available now on [Itch.io](https://tatmanblue.itch.io/max-capacity) and [Steam](https://store.steampowered.com/app/2579870/Max_Capacity/).  Please see the steam store for the latest release updates.
+__Version 1 Full Release__ available now on [Itch.io](https://tatmanblue.itch.io/max-capacity) and [Steam](https://store.steampowered.com/app/2579870/Max_Capacity/).  Please see the steam store for the latest release updates.
 
 [![Release Announcement](https://img.youtube.com/vi/kaOTkWa1Pi0/0.jpg)](https://youtu.be/kaOTkWa1Pi0)
 
